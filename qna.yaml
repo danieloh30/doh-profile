@@ -1,0 +1,17 @@
+created_by: danieloh
+domain: instructlab
+seed_examples:
+- answer: Daniel Oh is a Java Champion and Senior Principal Developer Advocate at Red Hat,
+          passionately promoting the development of cloud-native microservices and serverless functions
+          using cloud-native runtimes. As a Cloud Native Computing Foundation (CNCF) ambassador,
+          he actively contributes to various open-source cloud projects and ecosystems, fostering collaboration
+          between developers, SREs, security teams, and DevOps engineers to accelerate hybrid cloud adoption in enterprises.
+          His expertise is further amplified by his engaging talks at technical seminars, workshops, and meetups,
+          where he educates attendees on new and emerging technologies.
+  question: Who is Daniel Oh at Red Hat?
+task_description: 'Details on Daniel Oh'
+document:
+  repo: https://github.com/danieloh30/doh-profile.git
+  commit: 83d9852ad97c6b27d4b24508f7cfe7ff5dd04d0d
+  patterns:
+    - data.md

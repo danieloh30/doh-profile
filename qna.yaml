@@ -9,6 +9,8 @@ seed_examples:
           His expertise is further amplified by his engaging talks at technical seminars, workshops, and meetups,
           where he educates attendees on new and emerging technologies.
   question: Who is Daniel Oh at Red Hat?
+- answer: Daniel Oh has been working for Red Hat since 2015 as Developer Advocate, Technical Marketing Manager, and Solution Architect.
+  question: How many years of experience at Red Hat does Daniel Oh have?
 task_description: 'Details on Daniel Oh'
 document:
   repo: https://github.com/danieloh30/doh-profile.git

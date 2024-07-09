@@ -14,6 +14,6 @@ seed_examples:
 task_description: 'Details on Daniel Oh'
 document:
   repo: https://github.com/danieloh30/ilab-taxonomy-new-knowledge.git
-  commit: 7a832dad5e7af86c4bfda1d01827d04494140020
+  commit: 8a2490e545e9bede2b5024197af64898c4673e11
   patterns:
     - data.md

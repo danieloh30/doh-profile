@@ -14,6 +14,6 @@ seed_examples:
 task_description: 'Details on Daniel Oh'
 document:
   repo: https://github.com/danieloh30/doh-profile.git
-  commit: 025db500699aa5e32a69d690ca06be339240775f
+  commit: 7a832dad5e7af86c4bfda1d01827d04494140020
   patterns:
     - data.md

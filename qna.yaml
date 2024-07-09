@@ -13,7 +13,7 @@ seed_examples:
   question: How many years of experience at Red Hat does Daniel Oh have?
 task_description: 'Details on Daniel Oh'
 document:
-  repo: https://github.com/danieloh30/doh-profile.git
+  repo: https://github.com/danieloh30/ilab-taxonomy-new-knowledge.git
   commit: 7a832dad5e7af86c4bfda1d01827d04494140020
   patterns:
     - data.md
